@@ -1,0 +1,14 @@
+/**
+ * @name MiSide
+ * @author streetraceing1337
+ * @description На просторах интернета появилась прекрасная игра, тогда почему бы не появиться такой же прекрасной теме?
+ * @version 1.0.0
+ * @authorId 1228395242454257836
+*/
+
+:root {
+    --miside-background: url("https://i.imgur.com/WmXlPlz.jpeg");
+    --miside-primary: rgba(32, 24, 54, 0.5);
+    --miside-secondary: rgba(32, 24, 54, 1);
+    --miside-secondary-hover: rgba(47, 36, 77, 1);
+}
