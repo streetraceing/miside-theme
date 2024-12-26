@@ -1,3 +1,5 @@
+![Не удалось загрузить превью :(]([https://url/to/img.png](https://i.imgur.com/AkoDvuT.png))
+
 ## Как установить?
 1. Необходим Vencord ( https://vencord.dev/ )
 2. Скачиваем MiSide.theme.css [(клик)](https://github.com/streetraceing/miside-theme/blob/main/MiSide.theme.css)
