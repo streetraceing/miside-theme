@@ -1,4 +1,4 @@
-![Не удалось загрузить превью :(](https://i.imgur.com/AkoDvuT.png)
+![Не удалось загрузить превью :(](https://i.imgur.com/nEInXLS.png)
 
 ## Как установить?
 1. Необходим Vencord ( https://vencord.dev/ )
