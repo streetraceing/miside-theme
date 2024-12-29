@@ -1,4 +1,4 @@
-![Не удалось загрузить превью :(](https://i.imgur.com/nEInXLS.png)
+![Не удалось загрузить превью :(](https://i.imgur.com/kUl1iOH.png)
 
 ## Как установить?
 Необходим [Vencord](https://vencord.dev/) или [BetterDiscord](https://betterdiscord.app/)
